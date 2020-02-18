@@ -1,0 +1,21 @@
+
+Project Name: Car and home scenary
+
+
+Project Description:
+
+There are two cars and some homes and trees in the scenario. 
+A Sun on blue sky and a moon on black sky (night mode).
+Cars are driven on the road and the clouds on the sky will be floating 
+when the left mouse button is clicked and also when 'n' is pressed 
+the night mode is on and the moon will be shown on the night sky.
+But the runniing of two cars and the floating of clouds will be unchanged.
+The right mouse button will stop the dynamic scenario.
+
+Instructions:
+
+'n' : night mode is on.
+'d' : day mode is on.
+'left mouse button' : scenario will be dynamic.
+'right mouse button': stops the dynamic scenario.
+
